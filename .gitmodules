@@ -1,3 +1,6 @@
 [submodule "werkXliTechRider"]
 	path = werkXliTechRider
 	url = https://github.com/SaltDispenser/werkXliTechRider.git
+[submodule "werkXliLightingDirections"]
+	path = werkXliLightingDirections
+	url = https://github.com/SaltDispenser/werkXliLightingDirections.git
